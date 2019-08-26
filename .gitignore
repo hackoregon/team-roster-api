@@ -1,2 +1,6 @@
 gcp_credentials.json
 .vscode
+vendor
+api.zip
+resize.zip
+requirements.txt
